@@ -7,15 +7,15 @@ pipeline {
                 echo 'Buliding the app'
             }
         }
-        stage('Test')
+        stage('ccsqsdsfasds')
         {
             steps{
-                echo 'Running tests'
+                echo 'Rsdsadsfsafasfsa'
             }
         }
         stage('Deploy'){
             steps{
-                echo 'Deploying the app'
+                echo 'Dwwwwwwwwwwww'
             }
         }
     }
